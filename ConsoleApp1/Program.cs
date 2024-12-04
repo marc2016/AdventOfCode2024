@@ -2,4 +2,4 @@
 using System.Net;
 using ConsoleApp1;
 
-Console.WriteLine($"Day 2: {Day2.Start()}");
+Console.WriteLine($"Day 2: {Day2.Start2()}");
